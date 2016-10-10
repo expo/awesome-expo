@@ -15,9 +15,7 @@
 - [Community](#community)
 - [Tips](#tips)
 
-## Apps
-
-Made with Exponent.
+## Apps - Made with Exponent
 
 ### Exponent Experiences
 
