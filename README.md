@@ -29,8 +29,8 @@
 ### Demos
 
 - [Instagram Stories Clone](https://getexponent.com/@mastermo/instagram-stories) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/building-instagram-stories-d14763682e98#.gn2ujtrup) | [Source Code](https://github.com/mastermoo/rn-instagram-stories)
-- [Feedback UI](https://getexponent.com/@mastermo/instagram-stories) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/react-native-ui-challenge-1-42db390905c#.apx950akw) | [Source Code](https://github.com/mastermoo/rn-emoji-feedback)
 - [Wunderlist Clone](https://getexponent.com/@mastermo/wunderlist) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/react-native-ui-challenge-2-be24f72e6a68#.ibqyza95w) | [Source Code](https://github.com/mastermoo/rn-wunderlist)
+- [Emoji Feedback UI](https://getexponent.com/@community/emoji-feedback) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/react-native-ui-challenge-1-42db390905c#.apx950akw) | [Source Code](https://github.com/mastermoo/rn-emoji-feedback)
 
 
 ## Components
