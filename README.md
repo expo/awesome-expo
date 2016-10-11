@@ -26,21 +26,23 @@
 
 - [Li.st](https://li.st/) - Twitter for lists of things
 
-## Components
+### Demos
 
-### Optimized for Exponent
+- [Instagram Stories Clone](https://getexponent.com/@mastermo/instagram-stories) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/building-instagram-stories-d14763682e98#.gn2ujtrup) | [Source Code](https://github.com/mastermoo/rn-instagram-stories)
+- [Feedback UI](https://getexponent.com/@mastermo/instagram-stories) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/react-native-ui-challenge-1-42db390905c#.apx950akw) | [Source Code](https://github.com/mastermoo/rn-emoji-feedback)
+- [Wunderlist Clone](https://getexponent.com/@mastermo/wunderlist) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/react-native-ui-challenge-2-be24f72e6a68#.ibqyza95w) | [Source Code](https://github.com/mastermoo/rn-wunderlist)
+
+
+## Components
 
 - [ExNavigation](https://github.com/exponentjs/ex-navigation) - A route-centric, batteries-included navigation library for Exponent and React Native that works seamlessly on Android and iOS
 
-### Exponent Specific (requires Exponent)
+## Documentation & Reference
 
-### Exponent Compatible
-
-## Documentation
-
-- [Up and Running GUide](http://electron.atom.io/docs/tutorial/quick-start/))
+- [Up and Running Guide](http://electron.atom.io/docs/tutorial/quick-start/))
 - [Official docs](https://docs.getexponent.com/)
-
+- [Vector Icons Directory on Exponent](https://getexponent.com/@ccheever/vector-icon-showcase)
+- [Vector Icons Directory on Web](https://exponentjs.github.io/vector-icons/)
 
 ## Articles
 
