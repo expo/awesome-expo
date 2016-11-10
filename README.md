@@ -21,6 +21,8 @@
 
 - [Growler Prowler](https://getexponent.com/@community/growler-prowler) - Find breweries around you in Vancouver!
 - [Floaty Plane](https://getexponent.com/@exponent/floatyplane) - A game where you keep a paper plane afloat
+- [React Native Playground](https://getexponent.com/@rnplay/rnplay) - Write snippets in your browser using [rnplay.org](https://rnplay.org/) and try them out with this!
+- [Pocket Gear](https://getexponent.com/@rncommunity/pocketgear) - PocketGear is a clean and simple Pokédex app for Pokémon GO.
 
 ### App Store apps Using Exponent
 
@@ -31,6 +33,8 @@
 - [Instagram Stories Clone](https://getexponent.com/@mastermo/instagram-stories) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/building-instagram-stories-d14763682e98#.gn2ujtrup) | [Source Code](https://github.com/mastermoo/rn-instagram-stories)
 - [Wunderlist Clone](https://getexponent.com/@mastermo/wunderlist) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/react-native-ui-challenge-2-be24f72e6a68#.ibqyza95w) | [Source Code](https://github.com/mastermoo/rn-wunderlist)
 - [Emoji Feedback UI](https://getexponent.com/@community/emoji-feedback) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/react-native-ui-challenge-1-42db390905c#.apx950akw) | [Source Code](https://github.com/mastermoo/rn-emoji-feedback)
+- [Native Component List](https://getexponent.com/@community/native-component-list) | [Source Code](https://github.com/exponentjs/native-component-list)
+- [GLTest](https://getexponent.com/@community/gl-test) - [Source Code](http://github.com/exponentjs/gl-test)
 
 
 ## Components
