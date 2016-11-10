@@ -34,7 +34,7 @@
 - [Wunderlist Clone](https://getexponent.com/@mastermo/wunderlist) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/react-native-ui-challenge-2-be24f72e6a68#.ibqyza95w) | [Source Code](https://github.com/mastermoo/rn-wunderlist)
 - [Emoji Feedback UI](https://getexponent.com/@community/emoji-feedback) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/react-native-ui-challenge-1-42db390905c#.apx950akw) | [Source Code](https://github.com/mastermoo/rn-emoji-feedback)
 - [Native Component List](https://getexponent.com/@community/native-component-list) | [Source Code](https://github.com/exponentjs/native-component-list)
-- [GLTest](https://getexponent.com/@community/gl-test) - [Source Code](http://github.com/exponentjs/gl-test)
+- [GLTest](https://getexponent.com/@community/gl-test) | [Source Code](http://github.com/exponentjs/gl-test)
 
 
 ## Components
