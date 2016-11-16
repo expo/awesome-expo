@@ -40,6 +40,9 @@
 ## Components
 
 - [ExNavigation](https://github.com/exponentjs/ex-navigation) - A route-centric, batteries-included navigation library for Exponent and React Native that works seamlessly on Android and iOS
+- [react-native-i18n](https://github.com/xcarpentier/react-native-i18n) - react-native-i18n for ExponentJS
+- [react-native-stripe-api](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
+
 
 ## Documentation & Reference
 
