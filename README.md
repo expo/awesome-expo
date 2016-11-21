@@ -37,12 +37,14 @@
 - [GLTest](https://getexponent.com/@community/gl-test) | [Source Code](http://github.com/exponentjs/gl-test)
 
 
-## Components
+## Libraries from Exponent
 
 - [ExNavigation](https://github.com/exponentjs/ex-navigation) - A route-centric, batteries-included navigation library for Exponent and React Native that works seamlessly on Android and iOS
-- [react-native-i18n](https://github.com/xcarpentier/react-native-i18n) - react-native-i18n for ExponentJS
-- [react-native-stripe-api](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
 
+## Libraries built by the community
+
+- [react-native-i18n](https://github.com/xcarpentier/react-native-i18n) - react-native-i18n for Exponent
+- [react-native-stripe-api](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for the Stripe REST API
 
 ## Documentation & Reference
 
