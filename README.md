@@ -43,10 +43,11 @@
 
 ## Documentation & Reference
 
-- [Up and Running Guide](http://electron.atom.io/docs/tutorial/quick-start/))
+- [Up and Running Guide](http://electron.atom.io/docs/tutorial/quick-start/)
 - [Official docs](https://docs.getexponent.com/)
 - [Vector Icons Directory on Exponent](https://getexponent.com/@ccheever/vector-icon-showcase)
 - [Vector Icons Directory on Web](https://exponentjs.github.io/vector-icons/)
+- [Hello GraphQL](https://github.com/exponentjs/hello-graphql) - GraphQL query, mutation and schema example in Exponent with Reindex and Apollo Client.
 
 ## Articles
 
