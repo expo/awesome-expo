@@ -45,7 +45,6 @@
 ## Libraries built by the community
 
 - [react-native-i18n](https://github.com/xcarpentier/react-native-i18n) - react-native-i18n for Exponent
-- [react-native-stripe-api](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for the Stripe REST API
 
 ## Documentation & Reference
 
