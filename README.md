@@ -7,7 +7,8 @@
 ## Contents
 
 - [Apps](#apps)
-- [Components](#components)
+- [Libraries from Exponent](#libraries-from-exponent)
+- [Libraries built by the Community](#libraries-built-by-the-community)
 - [Documentation](#documentation)
 - [Articles](#articles)
 - [Videos](#videos)
@@ -41,6 +42,7 @@
 ## Libraries from Exponent
 
 - [ExNavigation](https://github.com/exponentjs/ex-navigation) - A route-centric, batteries-included navigation library for Exponent and React Native that works seamlessly on Android and iOS
+- [react-native-action-sheet](https://github.com/exponentjs/react-native-action-sheet) - ActionSheet is a cross-platform React Native component that uses the native UIActionSheet on iOS and a JS implementation on Android.
 
 ## Libraries built by the community
 
