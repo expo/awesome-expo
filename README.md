@@ -39,6 +39,9 @@
 - [Emoji Feedback UI](https://getexponent.com/@community/emoji-feedback) by Yousef Kama | [Blog Post](https://medium.com/@yousefkama/react-native-ui-challenge-1-42db390905c#.apx950akw) | [Source Code](https://github.com/mastermoo/rn-emoji-feedback)
 - [Native Component List](https://getexponent.com/@community/native-component-list) | [Source Code](https://github.com/exponentjs/native-component-list)
 - [GLTest](https://getexponent.com/@community/gl-test) | [Source Code](http://github.com/exponentjs/gl-test)
+- [Tetris](https://getexponent.com/@community/react-native-tetris) - The Tetris game you know and love.
+- [react-native-gmail](https://getexponent.com/@sungwoopark95/react-native-gmail) by Sung Woo Park - Pure javascript UI prototype for React Native framework. Custom swipe to archive ListView. by  | [Source Code](https://github.com/ggomaeng/react-native-gmail)
+- [Solitaire](https://getexponent.com/@sungwoopark95/react-native-solitaire) by Sung Woo Park - Pure javascript solitaire UI for React Native framework. Intended for practices with PanResponder
 
 
 ## Libraries from Exponent
