@@ -25,6 +25,8 @@
 - [React Native Playground](https://getexponent.com/@rnplay/rnplay) - Write snippets in your browser using [rnplay.org](https://rnplay.org/) and try them out with this!
 - [Pocket Gear](https://getexponent.com/@rncommunity/pocketgear) - PocketGear is a clean and simple Pokédex app for Pokémon GO.
 - [Breakout](https://getexponent.com/@community/breakout) - A game where you have to smash blocks with your paddle using GL.
+- [movieapp](https://getexponent.com/@community/movieapp) - Discover Movies and TV shows
+- [Startr](https://getexponent.com/@community/startr) - "Like Airbnb for Uber." Inspiration for your next startup
 
 ### App Store apps Using Exponent
 
