@@ -60,6 +60,7 @@
 - [Vector Icons Directory on Exponent](https://getexponent.com/@ccheever/vector-icon-showcase)
 - [Vector Icons Directory on Web](https://exponentjs.github.io/vector-icons/)
 - [Hello GraphQL](https://github.com/exponentjs/hello-graphql) - GraphQL query, mutation and schema example in Exponent with Reindex and Apollo Client.
+- [Socket.io Exponent Example](https://github.com/exponentjs/socket-io-example) - A simple backend and Exponent app that uses Socket.io
 
 ## Articles
 
