@@ -20,7 +20,7 @@
 
 ### Exponent Experiences
 
-- [Growler Prowler](https://getexponent.com/@community/growler-prowler) - Find breweries around you in Vancouver!
+- [Growler Prowler](https://getexponent.com/@community/growler-prowler) - Find breweries around you in Vancouver! | [Source Code](https://github.com/brentvatne/growler-prowler)
 - [Floaty Plane](https://getexponent.com/@exponent/floatyplane) - A game where you keep a paper plane afloat
 - [React Native Playground](https://getexponent.com/@rnplay/rnplay) - Write snippets in your browser using [rnplay.org](https://rnplay.org/) and try them out with this!
 - [Pocket Gear](https://getexponent.com/@rncommunity/pocketgear) - PocketGear is a clean and simple Pokédex app for Pokémon GO.
