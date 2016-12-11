@@ -62,6 +62,7 @@
 - [Hello GraphQL](https://github.com/exponentjs/hello-graphql) - GraphQL query, mutation and schema example in Exponent with Reindex and Apollo Client.
 - [Socket.io Exponent Example](https://github.com/exponentjs/socket-io-example) - A simple backend and Exponent app that uses Socket.io
 - [Video Background Example](https://github.com/exponentjs/video-background) - Everyone's favorite sign-in screen layout.
+- [Image Upload Example](https://github.com/exponentjs/image-upload-example) - Snap a photo or grab it from your camera roll, upload it to your backend that sends it off to S3.
 
 ## Articles
 
