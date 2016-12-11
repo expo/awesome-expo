@@ -55,14 +55,14 @@
 
 ## Documentation & Reference
 
-- [Up and Running Guide](http://electron.atom.io/docs/tutorial/quick-start/)
-- [Official docs](https://docs.getexponent.com/)
-- [Vector Icons Directory on Exponent](https://getexponent.com/@ccheever/vector-icon-showcase)
-- [Vector Icons Directory on Web](https://exponentjs.github.io/vector-icons/)
+- [Up and Running Guide](https://docs.getexponent.com/versions/latest/guides/up-and-running.html)
+- [Official Exponent docs](https://docs.getexponent.com/) - Go here and be sure to use the search to answer a lot of your questions.
 - [Hello GraphQL](https://github.com/exponentjs/hello-graphql) - GraphQL query, mutation and schema example in Exponent with Reindex and Apollo Client.
 - [Socket.io Exponent Example](https://github.com/exponentjs/socket-io-example) - A simple backend and Exponent app that uses Socket.io
 - [Video Background Example](https://github.com/exponentjs/video-background) - Everyone's favorite sign-in screen layout.
 - [Image Upload Example](https://github.com/exponentjs/image-upload-example) - Snap a photo or grab it from your camera roll, upload it to your backend that sends it off to S3.
+- [Vector Icons Directory on Exponent](https://getexponent.com/@ccheever/vector-icon-showcase)
+- [Vector Icons Directory on Web](https://exponentjs.github.io/vector-icons/)
 
 ## Articles
 
