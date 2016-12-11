@@ -9,7 +9,7 @@
 - [Apps](#apps)
 - [Libraries from Exponent](#libraries-from-exponent)
 - [Libraries built by the Community](#libraries-built-by-the-community)
-- [Documentation](#documentation)
+- [Documentation](#documentation--reference)
 - [Articles](#articles)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
