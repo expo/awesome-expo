@@ -42,6 +42,7 @@
 - [Tetris](https://getexponent.com/@community/react-native-tetris) - The Tetris game you know and love. | [Source Code](https://github.com/ggomaeng/react-native-tetris)
 - [react-native-gmail](https://getexponent.com/@sungwoopark95/react-native-gmail) by Sung Woo Park - Pure javascript UI prototype for React Native framework. Custom swipe to archive ListView. | [Source Code](https://github.com/ggomaeng/react-native-gmail)
 - [Solitaire](https://getexponent.com/@sungwoopark95/react-native-solitaire) by Sung Woo Park - Pure javascript solitaire UI for React Native framework. Intended for practices with PanResponder | [Source Code](https://github.com/ggomaeng/react-native-solitaire)
+- [Render an SVG File from URI](https://getexponent.com/@ccheever/homer-simpson-svg) - Renders an SVG image of Homer Simpson stored at a URI | [Source Code](https://github.com/ccheever/homer-simpson-svg-file)
 
 
 ## Libraries from Exponent
