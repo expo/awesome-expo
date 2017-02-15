@@ -28,7 +28,7 @@
 - [movieapp](https://getexponent.com/@community/movieapp) - Discover Movies and TV shows
 - [Startr](https://getexponent.com/@community/startr) - "Like Airbnb for Uber." Inspiration for your next startup
 - [PÜL](https://getexponent.com/@pulapp/pul) - A carpooling app designed for students to help each other get more involved in their community. | [Source Code](https://github.com/datwheat/pul)
-
+- [Tetris](https://getexponent.com/@community/react-native-tetris) - The Tetris game you know and love.
 
 ### App Store apps Using Exponent
 
