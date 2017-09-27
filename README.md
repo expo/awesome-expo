@@ -55,6 +55,7 @@
 ## Libraries built by the community
 
 - [ex-react-native-i18n](https://github.com/xcarpentier/react-native-i18n) - ex-react-native-i18n for Expo
+- [react-native-linkedin](https://github.com/xcarpentier/react-native-linkedin)
 
 ## Documentation & Reference
 
