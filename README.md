@@ -30,6 +30,7 @@
 - [PÜL](https://expo.io/@pulapp/pul) - A carpooling app designed for students to help each other get more involved in their community. | [Source Code](https://github.com/datwheat/pul)
 - [Tetris](https://getexponent.com/@community/react-native-tetris) - The Tetris game you know and love.
 - [ATM finda](expo.io/@danidee/atmfinda) - An App for Finding Active ATM's around you.
+- [Reactive Sweeper](https://expo.io/@experiment322/reactive-sweeper) - The good ol' minesweeper game. And a little bit more. | [Source Code](https://github.com/experiment322/reactive-sweeper)
 
 ### App Store apps Using Expo
 
@@ -90,6 +91,7 @@ Add some!
 - [Old Exponent Subreddit](https://www.reddit.com/r/exponent)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/exponentjs)
 - [`@expo_io` on Twitter](https://twitter.com/expo_io)
+- [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
 
 ## Tips
 
