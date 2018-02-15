@@ -29,7 +29,7 @@
 - [Startr](https://expo.io/@community/startr) - "Like Airbnb for Uber." Inspiration for your next startup
 - [PÜL](https://expo.io/@pulapp/pul) - A carpooling app designed for students to help each other get more involved in their community. | [Source Code](https://github.com/datwheat/pul)
 - [Tetris](https://getexponent.com/@community/react-native-tetris) - The Tetris game you know and love.
-- [ATM finda](expo.io/@danidee/atmfinda) - An App for Finding Active ATM's around you.
+- [ATM finda](https://expo.io/@danidee/atmfinda) - An App for Finding Active ATM's around you.
 - [Reactive Sweeper](https://expo.io/@experiment322/reactive-sweeper) - The good ol' minesweeper game. And a little bit more. | [Source Code](https://github.com/experiment322/reactive-sweeper)
 
 ### App Store apps Using Expo
