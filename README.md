@@ -29,6 +29,7 @@
 - [Startr](https://expo.io/@community/startr) - "Like Airbnb for Uber." Inspiration for your next startup
 - [PÜL](https://expo.io/@pulapp/pul) - A carpooling app designed for students to help each other get more involved in their community. | [Source Code](https://github.com/datwheat/pul)
 - [Tetris](https://getexponent.com/@community/react-native-tetris) - The Tetris game you know and love.
+- [Reactive Sweeper](https://expo.io/@experiment322/reactive-sweeper) - The good ol' minesweeper game. And a little bit more. | [Source Code](https://github.com/experiment322/reactive-sweeper)
 
 ### App Store apps Using Expo
 
