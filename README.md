@@ -77,6 +77,11 @@
 
 - [This Week in React #2](https://thisweekinreact.com/this-week-in-react-2-74c7bd260cb4#.9d5v94k74) - Interview with Nikhilesh Sigatapu
 - [Using React Native UI toolkits with Expo](https://blog.getexponent.com/using-react-native-ui-toolkits-with-exponent-3993434caf66)
+- [Getting Started with Lottie and Expo](https://hackernoon.com/react-native-getting-started-with-lottie-and-expo-8b2105fbb496)
+- [Building a Minimalist Weather App with React Native and Expo](https://blog.expo.io/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09)
+- [How to integrate Redux into your application with React Native and Expo](https://medium.freecodecamp.org/how-to-integrate-redux-into-your-application-with-react-native-and-expo-ec37c9ca6033)
+- [Accessing Geo-location and App Permissions in React Native and Expo](https://medium.com/react-native-training/accessing-geo-location-and-app-permissions-in-react-native-and-expo-e7a1bd4714a2)
+- [Create a React Native Image Recognition App with Google Vision API and Expo](https://blog.jscrambler.com/create-a-react-native-image-recognition-app-with-google-vision-api/)
 
 ## Videos
 
@@ -84,7 +89,7 @@
 
 ## Podcasts
 
-Add some!
+- [React Native at Expo feat. Evan Bacon](https://devchat.tv/react-native-radio/react-native-at-expo-feat-evan-bacon/)
 
 ## Community
 
